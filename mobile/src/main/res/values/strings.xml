@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celsian</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE is not supported on this device.</string>
+    <string name="temp_text">Temp:</string>
+    <string name="rh_text">Relative Humidity:</string>
+    <string name="pres_text">Air Pressure:</string>
+    <string name="uvi_text">UV Index:</string>
+</resources>
